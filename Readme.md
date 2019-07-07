@@ -1,7 +1,8 @@
 ## Desktop Tv (Mvp):
 
-1 widget, 5 video experiences:
+1 widget, 5 video experiences for a television desktop background.
 
+## Video Experiences: 
 1) Static News updated Daily: (very stable videos)
 ```
   i) BBC  Top  Stories Playlist  [ youtube ] [ playlist ]
